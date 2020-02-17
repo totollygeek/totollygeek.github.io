@@ -1,0 +1,64 @@
+- name: RBI DevOps Conference
+  logo: /assets/img/rbi.jpg
+  location: Vienna, Austria
+  date: 20 Jan 2020
+  url: https://www.rbinternational.com
+  talks:
+    - name: Cloud agnostic serverless with Fn project
+      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-project-227558385
+
+- name: DEV.bg
+  logo: /assets/img/devbg.jpg
+  location: Sofia, Bulgaria
+  date: 08 Jan 2020
+  url: https://www.dev.bg
+  talks:
+    - name: Cloud agnostic serverless with Fn project
+      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-project-227558304
+
+- name: DevOpsCon
+  logo: /assets/img/devopscon.png
+  location: Munich, Germany
+  date: 02-04 Dec 2019
+  url: https://devopscon.io/munich/
+  talks:
+    - name: Cloud agnostic serverless with Fn project
+      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-204062790
+
+- name: Cloud Developer Days
+  logo: /assets/img/clouddevdays.png
+  location: Kraków, Poland
+  date: 28-29 May 2019
+  url: https://cloud.developerdays.pl/
+  talks:
+    - name: Cloud agnostic serverless with Fn project
+      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn
+    - name: CQRS for human beings
+      slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings-147945777
+
+- name: Topconf
+  logo: /assets/img/TopConf.jpg
+  location: Tallin, Estonia
+  date: 21 Nov 2018
+  url:
+  talks:
+    - name: CQRS for human beings
+      slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings
+
+- name: Code Europe
+  logo: /assets/img/logoCodeEurope.png
+  location: Kraków, Poland
+  date: 08 May 2018
+  url: https://www.codeeurope.pl/
+  talks:
+    - name: CQRS for human beings
+      slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings
+
+- name: DEV.bg
+  logo: /assets/img/devbg.jpg
+  location: Sofia, Bulgaria
+  date: 13 Mar 2018
+  url: https://www.dev.bg
+  talks:
+    - name: CQRS for human beings
+      slides:
