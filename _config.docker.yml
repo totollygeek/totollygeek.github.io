@@ -2,9 +2,9 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url: https://todorov.bg # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: / # does not include hostname
-title: TBlog
+url: # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl: # does not include hostname
+title: TBlog [DEV]
 description: > # this means to ignore newlines until "Language & timezone"
   Blog about software development, devops, tech, public speaking and geek culture.
 
@@ -92,7 +92,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -141,7 +141,7 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: google # false (default), "google", "custom"
+  provider: false # false (default), "google", "custom"
 
   ## Google Analytics
   google:

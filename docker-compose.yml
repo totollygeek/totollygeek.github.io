@@ -6,11 +6,11 @@ services:
     container_name: tblog
     environment:
         - JEKYLL_ENV=docker
-    # force_polling makes the linux box watch for any changes to files, then it will regenerate
-    # livereload gets the browser to automatically refresh when changes happen to files
-    command: bundle exec jekyll serve -H 0.0.0.0 -t --drafts
     ports:
         - 4000:4000
         - 35729:35729
+    stdin_open: true
+    tty: true
     volumes:
         - ./:/srv/jekyll
+    command: bundle exec jekyll serve -H 0.0.0.0 -t --drafts --config _config.docker.yml
