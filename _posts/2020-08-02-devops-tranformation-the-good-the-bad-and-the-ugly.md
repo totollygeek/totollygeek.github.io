@@ -14,4 +14,4 @@ I plan to prepare a series of blog posts on that journey so far, which is far fr
 I am not yet sure how I will structure those, but you will be able to find the links to all the posts in the series here:
 
 - The good, the bad and the ugly: ![](https://img.shields.io/static/v1?label=you&message=are%20here&color=green&style=flat)
-- The personas in your journey: ({% post_url 2020-08-02-devops-transformation-the-personas %})
+- Part 1: [The personas in your journey]({% post_url 2020-08-02-devops-transformation-the-personas %})
