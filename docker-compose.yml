@@ -1,16 +1,16 @@
-version: '3'
+version: "3"
 
 services:
   jekyll:
     image: jekyll/jekyll
     container_name: tblog
     environment:
-        - JEKYLL_ENV=docker
+      - JEKYLL_ENV=docker
     ports:
-        - 4000:4000
-        - 35729:35729
+      - 4000:4000
+      - 35729:35729
     stdin_open: true
     tty: true
     volumes:
-        - ./:/srv/jekyll
-    command: bundle exec jekyll serve -H 0.0.0.0 -t --drafts --config _config.docker.yml
+      - ./:/srv/jekyll
+    command: bundle exec jekyll serve -H 0.0.0.0 -w -V --strict_front_matter -I -t --drafts --config _config.docker.yml

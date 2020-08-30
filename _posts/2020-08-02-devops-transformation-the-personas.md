@@ -13,17 +13,16 @@ So here are some of the personas I have faced and how I tried working and discus
 
 ## The old timer
 
-### Summary
+The "old timer" is a person who typically has more than 15-20 years of experience in the field. He/she can be either a senior developer, tech or team lead. Since DevOps is not something that was popular in those years, when that persona got into software development, they are prone to be very conservative about such a major turn of events.
 
-The "old timer" is a person who typically has more than 15-20 years of experience in the field. He/she can be either a senior developer, tech or team lead. Since DevOps is not something that was popular in those years, when that persona got into software development, they are prone to be very conservative about such a major turn of events. 
+### How to identify
 
-#### How to identify 
 * More than 15 years of experience
 * Sceptical about DevOps and operational work in general
-* Strongly believer in specialization and doing things the correct way
+* Strong believer in specialization and doing things the correct way
 * Perfectionists, always getting into the details
 * Catch phrases:
-  * "This will never work"  * "I don't have the time to do everything"
+  * "This will never work"
+  * "I don't have the time to do everything"
   * "Most of the people are idiots"
-  
-#### 
+
