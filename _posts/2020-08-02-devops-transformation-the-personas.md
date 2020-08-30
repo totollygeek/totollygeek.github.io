@@ -11,7 +11,7 @@ Of course this does not mean those people are good or bad. All of the people I'v
 
 So here are some of the personas I have faced and how I tried working and discussing our journey with them.
 
-## The old timer
+## The "old timer"
 
 The "old timer" is a person who typically has more than 15-20 years of experience in the field. He/she can be either a senior developer, tech or team lead. Since DevOps is not something that was popular in those years, when that persona got into software development, they are prone to be very conservative about such a major turn of events.
 
@@ -26,3 +26,14 @@ The "old timer" is a person who typically has more than 15-20 years of experienc
   * "I don't have the time to do everything"
   * "Most of the people are idiots"
 
+### What to do
+
+## The "full bananas"
+
+## The "young hope"
+
+## The "pragmatic"
+
+## The "know it all"
+
+## The others
