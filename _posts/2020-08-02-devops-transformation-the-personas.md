@@ -18,7 +18,7 @@ The "old-timer" is a person who typically has more than 15-20 years of experienc
 ### How to identify
 
 * More than 15 years of experience
-* Sceptical about DevOps and operational work in general
+* Skeptical about DevOps and operational work in general
 * Strong believer in specialization and doing things the correct way
 * Perfectionists, always getting into the details
 * Catchphrases:
@@ -28,9 +28,26 @@ The "old-timer" is a person who typically has more than 15-20 years of experienc
 
 ### "Old timer" summary
 
-This person is very valuable to you. Although they can be a pain very often, you can bounce ideas off them. Use them as a moral compass, in a way. They are very quality-oriented. The main reason for them to be skeptical is that such massive shifts in the way you work usually bring inevitable quality issues at the beginning. 
+This person is very valuable to you. Although they can be a pain very often, you can bounce ideas off them. Use them as a moral compass, in a way. They are very quality-oriented. The main reason for them to be skeptical is that such massive shifts in the way you work usually bring inevitable quality issues at the beginning. Also, they tend to think that practices which they don't see how would work in a specific context, do not work anywhere. You need to constantly try to prove them why DevOps works, because if you win them over, that would be a HUGE success.
 
 ## The "full bananas"
+
+This is DevOps-coholic. This is the person, who wants to take everything to extremes. Thousands microservices, hundreds of releases per day, completely decoupled architecture. Usually they are a strong ally in the transformation, since they would evangelize about all of those things constantly. A complete opposite of the [Old Timer](#the-old-timer). Extremes, on the other hand, are not a good thing.
+
+### Hot to identify
+
+* Very proactive. So much, that it can be annoying sometimes
+* Usually a goto person for advice on pipelines, repositories, deployments, etc.
+* People centric persona
+* Usually a positive, optimistic person
+* Catchphrases:
+  * "That is not so hard. You can do everything"
+  * "Technical debt is the silent killer"
+  * "DevOps will set us free"
+
+### "Full bananas" summary
+
+Generally those a the people who will lead your transformation. They will do everything in their power to make it happen. The main goal they are trying to achieve is that every team is successful in doing the ideal state of DevOps described in the [books](#books-you-should-read):
 
 ## The "young hope"
 
@@ -39,3 +56,5 @@ This person is very valuable to you. Although they can be a pain very often, you
 ## The "know it all"
 
 ## The others
+
+## Books you should read
