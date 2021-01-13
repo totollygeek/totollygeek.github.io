@@ -7,7 +7,7 @@ tags: [devops, transformation]
 
 While I was doing our DevOps transformation journey, I have collaborated with a lot of my colleagues, and I have identified some personas who might be part of your journey as well. Having them identified and explained might help you out in your encounters.
 
-Of course, this does not mean those people are good or bad. All of the people I've worked with always tried their best to do whatever they consider valuable for them and the company. It is just the nature of people to have a different attitude and therefore perceive the reality of DevOps in other contexts. Also, many times feelings get involved, which is always tricky, but people have feelings, and there is no escape :)
+Of course, this does not mean those people are good or bad. All of the people I've worked with, always tried their best to do whatever they consider valuable for them and the company. It is just the nature of people to have a different attitude and therefore perceive the reality of DevOps in other contexts. Also, many times feelings get involved, which is always tricky, but people have feelings, and there is no escape :)
 
 Here are some of the personas I have faced and how I tried working and discussing our journey with them.
 
@@ -47,14 +47,29 @@ This is DevOps-coholic. This is the person, who wants to take everything to extr
 
 ### "Full bananas" summary
 
-Generally those a the people who will lead your transformation. They will do everything in their power to make it happen. The main goal they are trying to achieve is that every team is successful in doing the ideal state of DevOps described in the [books](#books-you-should-read):
+Generally those are the people who will lead your transformation. They will do everything in their power to make it happen. The main goal they are trying to achieve is that every team is successful in doing the ideal state of DevOps described in the [books]({% post_url 2021-01-13-devops-the-books-you-should-read %}). Give those people freedom, but monitor them, since they tend to spiral deep into the rabbit hole.
 
 ## The "young hope"
+
+Those are the fresh young people. The juniors and recently became seniors. Those are usually people who have gathered their knowledge for software development in the age of DevOps and all of those things have been there for them. They are enthusiastic and what to do new stuff. They want to be part of the "cool kids" who do Docker, Kubernetes, Automation, etc.
+
+### Hot to identify
+
+* Young people with desire to learn
+* Operation tasks and researches are usually assigned to them
+* Proactive in about 50% of the cases
+* Legacy code scares them
+* Catchphrases:
+  * "I can do that, I'll just Google it for a bit"
+  * "I want to do new and exciting stuff"
+  * "Maybe this can be automated"
+
+### "Young hope" summary
+
+When you want to make transformation in a team, usually it is very hard to turn the whole team into DevOps mindset simultaneously. It is not only hard, but it is the wrong thing to do. Usually you will be the person outside the team, that will try to tell them how to work and most of the seniors and especially "old timers" will block that attempt. The way you do it is by using the "young hope". You should get them hooked up first, which in most cases is already done. Then have them transform the team from the inside by example and by evangelizing internally.
 
 ## The "pragmatic"
 
 ## The "know it all"
 
 ## The others
-
-## Books you should read
