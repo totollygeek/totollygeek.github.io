@@ -35,6 +35,9 @@ article_header:
         {% if talk.slides %}
         (<a href="{{ talk.slides }}" target="_blank">Slides</a>)
         {% endif %}
+         {% if talk.video %}
+        (<a href="{{ talk.video }}" target="_blank">Video</a>)
+        {% endif %}
         </span>
         </li>
       {% endfor %}

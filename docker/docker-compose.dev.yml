@@ -1,15 +1,15 @@
 version: "3.5"
 
 services:
-  jekyll-text-theme_dev:
-    image: docker_jekyll-text-theme_dev
+  jekyll:
+    image: jekyll/builder
     environment:
       - JEKYLL_ENV
     ports:
       - 4000:4000
-    container_name: jekyll-TeXt-theme_dev
+    container_name: jekyll
     volumes:
-      - ..:/usr/src/app
+      - ..:/srv/jekyll
     stdin_open: true
     tty: true
-    command: bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.dev.yml
+    command: bundle exec jekyll serve -H 0.0.0.0 -t --config ./_config.dev.yml
