@@ -6,7 +6,7 @@
   talks:
     - name: Unleash your build with NUKE
       slides: https://www.slideshare.net/TodorTodorov135/unleash-your-build-with-nuke
-      video:
+      video: https://www.youtube.com/watch?v=kwoqsLqd3yA
 
 - name: RBI DevOps Conference
   logo: /assets/img/rbi.jpg
