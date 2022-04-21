@@ -1,3 +1,11 @@
+- name: Code Europe
+  logo: /assets/img/dwx.jpg
+  location: Kraków/Warsaw/3ciTy, Poland
+  date: 03 May-02 Jun 2022
+  url: https://www.codeeurope.pl
+  talks:
+    - name: Unleash your build with NUKE
+
 - name: Developer Week
   logo: /assets/img/dwx.jpg
   location: Nürnberg, Germany
