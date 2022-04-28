@@ -21,11 +21,3 @@
   url: https://devopscon.io/berlin/
   talks:
     - name: DevOps transformation - the good, the bad and the ugly
-
-- name: NDC Porto
-  logo: /assets/img/ndc-porto.png
-  location: Porto, Portugal
-  date: 25-29 Apr 2022
-  url: https://ndcporto.com/
-  talks:
-    - name: DevOps transformation - the good, the bad and the ugly
