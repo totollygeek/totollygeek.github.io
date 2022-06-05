@@ -1,3 +1,12 @@
+- name: Code Europe
+  logo: /assets/img/logoCodeEurope.png
+  location: Kraków/Warsaw/3cITy, Poland
+  date: 03 May-02 Jun 2022
+  url: https://www.codeeurope.pl
+  talks:
+    - name: Unleash your build with NUKE
+      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiapSau3td_5heWzvhQ?e=rY8El0
+
 - name: NDC Porto
   logo: /assets/img/ndc-porto.png
   location: Porto, Portugal
