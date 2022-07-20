@@ -11,6 +11,10 @@ article_header:
     src: /assets/img/cqrs.jpg
 ---
 # Upcoming
+{% if site.data.upcoming == empty %}
+  `Nothing to see here 🤷‍♂️`
+{% endif %}
+
 {% for conference in site.data.upcoming %}
 <div class="item">
   <div class="item__image">
