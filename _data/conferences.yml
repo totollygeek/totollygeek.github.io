@@ -1,3 +1,21 @@
+- name: Developer Week
+  logo: /assets/img/dwx.jpg
+  location: Nürnberg, Germany
+  date: 05-07 Jul 2022
+  url: https://www.developer-week.de
+  talks:
+    - name: Unleash your build with NUKE
+      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiawsYwqhZwXcZtz-Hg
+
+- name: DevOpsCon
+  logo: /assets/img/devopscon.png
+  location: Berlin, Germany
+  date: 20-23 Jun 2022
+  url: https://devopscon.io/berlin/
+  talks:
+    - name: DevOps transformation - the good, the bad and the ugly
+      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiacWEwrQeSAzzxowCQ?e=asHYsa
+
 - name: Code Europe
   logo: /assets/img/logoCodeEurope.png
   location: Kraków/Warsaw/3cITy, Poland
@@ -15,6 +33,7 @@
   talks:
     - name: DevOps transformation - the good, the bad and the ugly
       slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiacWEwrQeSAzzxowCQ?e=asHYsa
+      video: https://www.youtube.com/watch?v=147txqwmvNQ
 
 - name: DevOps Porto Meetup
   logo: /assets/img/devopsporto.png

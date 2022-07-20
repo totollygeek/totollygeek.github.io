@@ -1,15 +1,1 @@
-- name: Developer Week
-  logo: /assets/img/dwx.jpg
-  location: Nürnberg, Germany
-  date: 05-07 Jul 2022
-  url: https://www.developer-week.de
-  talks:
-    - name: DevOps transformation - the good, the bad and the ugly
 
-- name: DevOpsCon
-  logo: /assets/img/devopscon.png
-  location: Berlin, Germany
-  date: 20-23 Jun 2022
-  url: https://devopscon.io/berlin/
-  talks:
-    - name: DevOps transformation - the good, the bad and the ugly
