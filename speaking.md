@@ -11,7 +11,7 @@ article_header:
     src: /assets/img/cqrs.jpg
 ---
 # Upcoming
-{% if site.data.upcoming == empty %}
+{% if site.data.upcoming.size < 1 %}
   `Nothing to see here 🤷‍♂️`
 {% endif %}
 
