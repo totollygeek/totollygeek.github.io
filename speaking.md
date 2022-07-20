@@ -11,10 +11,6 @@ article_header:
     src: /assets/img/cqrs.jpg
 ---
 # Upcoming
-{% if site.data.upcoming.size < 1 %}
-  `Nothing to see here 🤷‍♂️`
-{% endif %}
-
 {% for conference in site.data.upcoming %}
 <div class="item">
   <div class="item__image">
@@ -50,6 +46,8 @@ article_header:
     </div>
   </div>
 </div>
+{% else %}
+  `Nothing to see here 🤷‍♂️`
 {% endfor %}
 
 # Past
