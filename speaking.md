@@ -47,7 +47,7 @@ article_header:
   </div>
 </div>
 {% else %}
-## Nothing to see here 🤷‍♂️
+### Nothing to see here 🤷‍♂️
 {% endfor %}
 
 # Past
