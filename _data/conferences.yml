@@ -56,7 +56,7 @@
       slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-project-227558385
 
 - name: DEV.bg
-  logo: /assets/img/devbg.jpg
+  logo: /assets/img/devbg.png
   location: Sofia, Bulgaria
   date: 08 Jan 2020
   url: https://www.dev.bg
@@ -103,7 +103,7 @@
       slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings
 
 - name: DEV.bg
-  logo: /assets/img/devbg.jpg
+  logo: /assets/img/devbg.png
   location: Sofia, Bulgaria
   date: 13 Mar 2018
   url: https://www.dev.bg
