@@ -12,7 +12,7 @@
   date: 26 Apr 2023
   url: https://dotnet2023.dev.bg/
   talks:
-    - name: CQRS and Event Sourcing: Because Life's Too Short for Boring Apps
+    - name: "CQRS and Event Sourcing: Because Life's Too Short for Boring Apps"
 
 - name: DEV.bg
   logo: /assets/img/devbg.png
