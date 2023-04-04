@@ -7,7 +7,7 @@
     - name: CQRS and Event Sourcing in NodeJS - Because who wants boring, linear code anyway?
 
 - name: .NETworking Conference
-  logo: /assets/img/dwx.jpg
+  logo: /assets/img/logoNetworkingConf.jpg
   location: Sofia, Bulgaria
   date: 26 Apr 2023
   url: https://dotnet2023.dev.bg/
