@@ -13,11 +13,3 @@
   url: https://dotnet2023.dev.bg/
   talks:
     - name: "CQRS and Event Sourcing: Because Life's Too Short for Boring Apps"
-
-- name: DEV.bg
-  logo: /assets/img/devbg.png
-  location: Sofia, Bulgaria (online)
-  date: 05 Apr 2023
-  url: https://www.dev.bg
-  talks:
-    - name: Unleash your build with NUKE
