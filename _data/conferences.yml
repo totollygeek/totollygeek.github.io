@@ -1,3 +1,12 @@
+- name: .NETworking Conference
+  logo: /assets/img/logoNetworkingConf.png
+  location: Sofia, Bulgaria
+  date: 26 Apr 2023
+  url: https://dotnet2023.dev.bg/
+  talks:
+    - name: "CQRS and Event Sourcing: Because Life's Too Short for Boring Apps"
+      slides: https://cdn.todorov.bg/2023/networking-conference/cqrs-and-event-sourcing-because-lifes-too-short-for-boring-apps.pdf
+
 - name: DEV.bg
   logo: /assets/img/devbg.png
   location: Sofia, Bulgaria (online)
@@ -5,7 +14,7 @@
   url: https://www.dev.bg
   talks:
     - name: Unleash your build with NUKE
-      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYicQHDvamucu0fad2EQ?e=chJXMg
+      slides: https://cdn.todorov.bg/2023/devbg/unleash-your-build-with-nuke.pdf
 
 - name: Developer Week
   logo: /assets/img/dwx.jpg
@@ -14,7 +23,7 @@
   url: https://www.developer-week.de
   talks:
     - name: Unleash your build with NUKE
-      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiawsYwqhZwXcZtz-Hg
+      slides: https://cdn.todorov.bg/2022/developer-week/devops-transformation-the-good-the-bad-and-the-ugly.pdf
 
 - name: DevOpsCon
   logo: /assets/img/devopscon.png
@@ -23,7 +32,7 @@
   url: https://devopscon.io/berlin/
   talks:
     - name: DevOps transformation - the good, the bad and the ugly
-      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiacWEwrQeSAzzxowCQ?e=asHYsa
+      slides: https://cdn.todorov.bg/2022/devopscon/devops-transformation-the-good-the-bad-and-the-ugly.pdf
 
 - name: Code Europe
   logo: /assets/img/logoCodeEurope.png
@@ -32,7 +41,7 @@
   url: https://www.codeeurope.pl
   talks:
     - name: Unleash your build with NUKE
-      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiapSau3td_5heWzvhQ?e=rY8El0
+      slides: https://cdn.todorov.bg/2022/code-europe/unleash-your-build-with-nuke.pdf
       video: https://www.youtube.com/watch?v=8oUdVLSdqyw
 
 - name: NDC Porto
@@ -42,7 +51,7 @@
   url: https://ndcporto.com/
   talks:
     - name: DevOps transformation - the good, the bad and the ugly
-      slides: https://1drv.ms/b/s!Aro6ZL0kz-gYiacWEwrQeSAzzxowCQ?e=asHYsa
+      slides: https://cdn.todorov.bg/2022/ndc-porto/devops-transformation-the-good-the-bad-and-the-ugly.pdf
       video: https://www.youtube.com/watch?v=147txqwmvNQ
 
 - name: DevOps Porto Meetup
@@ -52,7 +61,7 @@
   url: https://devopsporto.com/
   talks:
     - name: Unleash your build with NUKE
-      slides: https://www.slideshare.net/TodorTodorov135/unleash-your-build-with-nuke
+      slides: https://cdn.todorov.bg/2021/devops-porto/unleash-your-build-with-nuke.pdf
       video: https://www.youtube.com/watch?v=kwoqsLqd3yA
 
 - name: RBI DevOps Conference
@@ -62,7 +71,7 @@
   url: https://www.rbinternational.com
   talks:
     - name: Cloud agnostic serverless with Fn project
-      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-project-227558385
+      slides: https://cdn.todorov.bg/2020/rbi-devops-conference/cloud-agnostic-serverless-with-fn.pdf
 
 - name: DEV.bg
   logo: /assets/img/devbg.png
@@ -71,7 +80,7 @@
   url: https://www.dev.bg
   talks:
     - name: Cloud agnostic serverless with Fn project
-      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-project-227558304
+      slides: https://cdn.todorov.bg/2020/devbg/cloud-agnostic-serverless-with-fn.pdf
 
 - name: DevOpsCon
   logo: /assets/img/devopscon.png
@@ -80,7 +89,7 @@
   url: https://devopscon.io/munich/
   talks:
     - name: Cloud agnostic serverless with Fn project
-      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn-204062790
+      slides: https://cdn.todorov.bg/2019/devopscon/cloud-agnostic-serverless-with-fn.pdf
 
 - name: Cloud Developer Days
   logo: /assets/img/clouddevdays.png
@@ -89,9 +98,9 @@
   url: https://cloud.developerdays.pl/
   talks:
     - name: Cloud agnostic serverless with Fn project
-      slides: https://www.slideshare.net/TodorTodorov135/cloud-agnostic-serverless-with-fn
+      slides: https://cdn.todorov.bg/2019/cloud-developer-days/cloud-agnostic-serverless-with-fn.pdf
     - name: CQRS for human beings
-      slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings-147945777
+      slides: https://cdn.todorov.bg/2019/cloud-developer-days/cqrs-for-human-beings.pdf
 
 - name: Topconf
   logo: /assets/img/TopConf.jpg
@@ -100,7 +109,7 @@
   url:
   talks:
     - name: CQRS for human beings
-      slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings
+      slides: https://cdn.todorov.bg/2018/topconf/cqrs-for-human-beings.pdf
 
 - name: Code Europe
   logo: /assets/img/logoCodeEurope.png
@@ -109,7 +118,7 @@
   url: https://www.codeeurope.pl/
   talks:
     - name: CQRS for human beings
-      slides: https://www.slideshare.net/TodorTodorov135/cqrs-for-human-beings
+      slides: https://cdn.todorov.bg/2018/code-europe/cqrs-for-human-beings.pdf
 
 - name: DEV.bg
   logo: /assets/img/devbg.png
@@ -118,4 +127,4 @@
   url: https://www.dev.bg
   talks:
     - name: CQRS for human beings
-      slides:
+      slides: https://cdn.todorov.bg/2018/devbg/cqrs-for-human-beings.pdf

@@ -5,11 +5,3 @@
   url: https://www.codeeurope.pl
   talks:
     - name: CQRS and Event Sourcing in NodeJS - Because who wants boring, linear code anyway?
-
-- name: .NETworking Conference
-  logo: /assets/img/logoNetworkingConf.png
-  location: Sofia, Bulgaria
-  date: 26 Apr 2023
-  url: https://dotnet2023.dev.bg/
-  talks:
-    - name: "CQRS and Event Sourcing: Because Life's Too Short for Boring Apps"
