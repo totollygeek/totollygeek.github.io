@@ -39,8 +39,8 @@ article_header:
         {% if talk.video %}
         (<a href="{{ talk.video }}" target="_blank">Video</a>)
         {% endif %}
-        {% if talk.code %}
-        (<a href="{{ talk.code }}" target="_blank">Code</a>)
+        {% if talk.example %}
+        (<a href="{{ talk.example }}" target="_blank">Code</a>)
         {% endif %}
         </span>
         </li>

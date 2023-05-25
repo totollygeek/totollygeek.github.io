@@ -6,7 +6,7 @@
   talks:
     - name: CQRS and Event Sourcing in NodeJS - Because who wants boring, linear code anyway?
       slides: https://cdn.todorov.bg/2023/code-europe/cqrs-node-js.pdf
-      code: https://github.com/totollygeek/node-cqrs
+      example: https://github.com/totollygeek/node-cqrs
 
 - name: .NETworking Conference
   logo: /assets/img/logoNetworkingConf.png
@@ -16,7 +16,7 @@
   talks:
     - name: "CQRS and Event Sourcing: Because Life's Too Short for Boring Apps"
       slides: https://cdn.todorov.bg/2023/networking-conference/cqrs-and-event-sourcing-because-lifes-too-short-for-boring-apps.pdf
-      code: https://github.com/totollygeek/Demos-CQRS
+      example: https://github.com/totollygeek/Demos-CQRS
 
 - name: DEV.bg
   logo: /assets/img/devbg.png
@@ -26,7 +26,7 @@
   talks:
     - name: Unleash your build with NUKE
       slides: https://cdn.todorov.bg/2023/devbg/unleash-your-build-with-nuke.pdf
-      code: https://github.com/totollygeek/awesome-app
+      example: https://github.com/totollygeek/awesome-app
 
 - name: Developer Week
   logo: /assets/img/dwx.jpg
@@ -36,7 +36,7 @@
   talks:
     - name: Unleash your build with NUKE
       slides: https://cdn.todorov.bg/2022/developer-week/devops-transformation-the-good-the-bad-and-the-ugly.pdf
-      code: https://github.com/totollygeek/awesome-app
+      example: https://github.com/totollygeek/awesome-app
 
 - name: DevOpsCon
   logo: /assets/img/devopscon.png
@@ -56,7 +56,7 @@
     - name: Unleash your build with NUKE
       slides: https://cdn.todorov.bg/2022/code-europe/unleash-your-build-with-nuke.pdf
       video: https://www.youtube.com/watch?v=8oUdVLSdqyw
-      code: https://github.com/totollygeek/awesome-app
+      example: https://github.com/totollygeek/awesome-app
 
 - name: NDC Porto
   logo: /assets/img/ndc-porto.png
@@ -77,7 +77,7 @@
     - name: Unleash your build with NUKE
       slides: https://cdn.todorov.bg/2021/devops-porto/unleash-your-build-with-nuke.pdf
       video: https://www.youtube.com/watch?v=kwoqsLqd3yA
-      code: https://github.com/totollygeek/awesome-app
+      example: https://github.com/totollygeek/awesome-app
 
 - name: RBI DevOps Conference
   logo: /assets/img/rbi.jpg
@@ -87,7 +87,7 @@
   talks:
     - name: Cloud agnostic serverless with Fn project
       slides: https://cdn.todorov.bg/2020/rbi-devops-conference/cloud-agnostic-serverless-with-fn.pdf
-      code: https://github.com/totollygeek/serverless-with-fn
+      example: https://github.com/totollygeek/serverless-with-fn
 
 - name: DEV.bg
   logo: /assets/img/devbg.png
@@ -97,7 +97,7 @@
   talks:
     - name: Cloud agnostic serverless with Fn project
       slides: https://cdn.todorov.bg/2020/devbg/cloud-agnostic-serverless-with-fn.pdf
-      code: https://github.com/totollygeek/serverless-with-fn
+      example: https://github.com/totollygeek/serverless-with-fn
 
 - name: DevOpsCon
   logo: /assets/img/devopscon.png
@@ -107,7 +107,7 @@
   talks:
     - name: Cloud agnostic serverless with Fn project
       slides: https://cdn.todorov.bg/2019/devopscon/cloud-agnostic-serverless-with-fn.pdf
-      code: https://github.com/totollygeek/serverless-with-fn
+      example: https://github.com/totollygeek/serverless-with-fn
 
 - name: Cloud Developer Days
   logo: /assets/img/clouddevdays.png
@@ -117,10 +117,10 @@
   talks:
     - name: Cloud agnostic serverless with Fn project
       slides: https://cdn.todorov.bg/2019/cloud-developer-days/cloud-agnostic-serverless-with-fn.pdf
-      code: https://github.com/totollygeek/serverless-with-fn
+      example: https://github.com/totollygeek/serverless-with-fn
     - name: CQRS for human beings
       slides: https://cdn.todorov.bg/2019/cloud-developer-days/cqrs-for-human-beings.pdf
-      code: https://github.com/totollygeek/Demos-CQRS
+      example: https://github.com/totollygeek/Demos-CQRS
 
 - name: Topconf
   logo: /assets/img/TopConf.jpg
@@ -130,7 +130,7 @@
   talks:
     - name: CQRS for human beings
       slides: https://cdn.todorov.bg/2018/topconf/cqrs-for-human-beings.pdf
-      code: https://github.com/totollygeek/Demos-CQRS
+      example: https://github.com/totollygeek/Demos-CQRS
 
 - name: Code Europe
   logo: /assets/img/logoCodeEurope.png
@@ -140,7 +140,7 @@
   talks:
     - name: CQRS for human beings
       slides: https://cdn.todorov.bg/2018/code-europe/cqrs-for-human-beings.pdf
-      code: https://github.com/totollygeek/Demos-CQRS
+      example: https://github.com/totollygeek/Demos-CQRS
 
 - name: DEV.bg
   logo: /assets/img/devbg.png
@@ -150,4 +150,4 @@
   talks:
     - name: CQRS for human beings
       slides: https://cdn.todorov.bg/2018/devbg/cqrs-for-human-beings.pdf
-      code: https://github.com/totollygeek/Demos-CQRS
+      example: https://github.com/totollygeek/Demos-CQRS
