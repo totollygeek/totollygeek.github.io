@@ -11,6 +11,7 @@ article_header:
     src: /assets/img/cqrs.jpg
 ---
 # Upcoming
+
 {% for conference in site.data.upcoming %}
 <div class="item">
   <div class="item__image">
@@ -35,8 +36,11 @@ article_header:
         {% if talk.slides %}
         (<a href="{{ talk.slides }}" target="_blank">Slides</a>)
         {% endif %}
-         {% if talk.video %}
+        {% if talk.video %}
         (<a href="{{ talk.video }}" target="_blank">Video</a>)
+        {% endif %}
+        {% if talk.code %}
+        (<a href="{{ talk.code }}" target="_blank">Code</a>)
         {% endif %}
         </span>
         </li>
@@ -51,6 +55,7 @@ article_header:
 {% endfor %}
 
 # Past
+
 {% for conference in site.data.conferences %}
 <div class="item">
   <div class="item__image">

@@ -1,7 +1,0 @@
-- name: Code Europe
-  logo: /assets/img/logoCodeEurope.png
-  location: Kraków/Warsaw, Poland
-  date: 22-26 May 2023
-  url: https://www.codeeurope.pl
-  talks:
-    - name: CQRS and Event Sourcing in NodeJS - Because who wants boring, linear code anyway?
