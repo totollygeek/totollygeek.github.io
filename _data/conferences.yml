@@ -15,6 +15,7 @@
   url: https://dotnet2023.dev.bg/
   talks:
     - name: "CQRS and Event Sourcing: Because Life's Too Short for Boring Apps"
+      video: https://www.youtube.com/watch?v=YSqU6qjc-6I
       slides: https://cdn.todorov.bg/2023/networking-conference/cqrs-and-event-sourcing-because-lifes-too-short-for-boring-apps.pdf
       example: https://github.com/totollygeek/Demos-CQRS
 

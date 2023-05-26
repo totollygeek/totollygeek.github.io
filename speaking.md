@@ -33,15 +33,6 @@ article_header:
       <ul>
       {% for talk in conference.talks %}
         <li><span><b>{{ talk.name }}</b>
-        {% if talk.slides %}
-        (<a href="{{ talk.slides }}" target="_blank">Slides</a>)
-        {% endif %}
-        {% if talk.video %}
-        (<a href="{{ talk.video }}" target="_blank">Video</a>)
-        {% endif %}
-        {% if talk.example %}
-        (<a href="{{ talk.example }}" target="_blank">Code</a>)
-        {% endif %}
         </span>
         </li>
       {% endfor %}
@@ -82,6 +73,9 @@ article_header:
         {% endif %}
          {% if talk.video %}
         (<a href="{{ talk.video }}" target="_blank">Video</a>)
+        {% endif %}
+        {% if talk.example %}
+        (<a href="{{ talk.example }}" target="_blank">Code</a>)
         {% endif %}
         </span>
         </li>
