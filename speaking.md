@@ -67,7 +67,7 @@ article_header:
       {{ conference.date }} @ <b>{{ conference.location }}</b><br/>
       <ul>
       {% for talk in conference.talks %}
-        <li><span><b>{{ talk.name }}</b>
+        <li><span><b>{{ talk.name }}</b><br/>
         {% if talk.slides %}
         (<a href="{{ talk.slides }}" target="_blank">Slides</a>)
         {% endif %}
