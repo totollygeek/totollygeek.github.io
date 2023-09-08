@@ -1,0 +1,7 @@
+- name: DefCamp
+  logo: /assets/img/defCamp.png
+  location: Bucharest, Romania
+  date: 23-24 Nov 2023
+  url: https://www.def.camp
+  talks:
+    - name: "Supply Chain Shenanigans: Evil npm & Shady NuGet"
