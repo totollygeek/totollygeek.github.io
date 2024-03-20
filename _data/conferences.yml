@@ -6,6 +6,7 @@
   talks:
     - name: "Supply Chain Shenanigans: Evil npm & Shady NuGet"
       slides: https://cdn.todorov.bg/2023/defcamp/supply-chain-shenanigans.pdf
+      video: https://www.youtube.com/watch?v=ujw3-IvGM1c
 
 - name: Code Europe
   logo: /assets/img/logoCodeEurope.png
