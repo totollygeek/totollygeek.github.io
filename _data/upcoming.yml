@@ -1,7 +1,0 @@
-- name: DEV.bg
-  logo: /assets/img/devbg.png
-  location: Sofia, Bulgaria (online)
-  date: 08 Apr 2024
-  url: https://www.dev.bg
-  talks:
-    - name: My precious top 5 .NET libraries & frameworks
