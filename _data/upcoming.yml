@@ -1,0 +1,7 @@
+- name: Cyber Security Talks
+  logo: /assets/img/cybersec.png
+  location: Sofia, Bulgaria
+  date: 14 May 2024
+  url: https://www.cybersecuritytalks.bg/
+  talks:
+    - name: "Supply Chain Shenanigans: Evil npm & Shady NuGet"
