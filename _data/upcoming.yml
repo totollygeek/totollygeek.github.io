@@ -1,1 +1,7 @@
-
+- name: ISTA Conference
+  logo: /assets/img/ista.png
+  location: Sofia, Bulgaria
+  date: 07 Nov 2024
+  url: https://istacon.org/
+  talks:
+    - name: "Supply Chain Shenanigans"
