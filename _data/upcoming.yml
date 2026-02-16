@@ -1,0 +1,7 @@
+- name: .NETworking Conference
+  logo: /assets/img/logoNetworkingConf.png
+  location: Sofia, Bulgaria
+  date: 18 Apr 2026
+  url: https://www.events.dev.bg/dotnet/2026
+  talks:
+    - name: "How .NET Apps Get Hacked"
