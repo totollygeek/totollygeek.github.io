@@ -11,7 +11,7 @@ article_header:
     src: /assets/img/rock1-top.jpg
 ---
 
-# Hi!
+# Hi
 
 If you are here about software development, you have come to the right place. I needed a place to share my daily
 battles with code and this is where it all went.
@@ -22,6 +22,6 @@ I don't have a portfolio, since I am lazy, but you can read a bit about my profe
 
 I have a [YouTube channel](http://www.youtube.com/totollygeek/), which I am trying to update as often as I can, but you will notice this is not as often as I would like to. But if you subscribe, I might start putting up videos any moment now and become the next big thing in YouTube millionaires.
 
-I am a social dude. You can follow me on [Twitter](http://twitter.com/totollygeek), [Instagram](https://www.instagram.com/totollygeek/) or [Facebook](https://www.facebook.com/totollygeek).
+I am a social dude. You can follow me on [Twitter](http://twitter.com/totollygeek), [Instagram](https://www.instagram.com/totollygeek/) or [Mastodon](https://infosec.exchange/@totollygeek).
 
 Mostly that's it. Stay tuned for more awesomeness!
