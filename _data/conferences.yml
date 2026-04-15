@@ -1,3 +1,12 @@
+- name: AIBEST April 2026 Meetup
+  logo: /assets/img/aibest-logo.png
+  location: Sofia, Bulgaria
+  date: 14 Apr 2026
+  url: https://aibest.org/
+  talks:
+    - name: "Leadership Failures Behind Major Cyber Breaches"
+      slides: https://cdn.todorov.bg/2026/aibest/leadership-failures-behind-major-cyber-breaches.pdf
+
 - name: ISTA Conference
   logo: /assets/img/ista.png
   location: Sofia, Bulgaria
