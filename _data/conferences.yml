@@ -7,6 +7,7 @@
     - name: "How .NET Apps Get Hacked"
       slides: https://cdn.todorov.bg/2026/networking-conference/how-dotnet-apps-get-hacked.pdf
       example: https://github.com/totollygeek/how-dotnet-apps-get-hacked
+      video: https://www.youtube.com/watch?v=KqMYWNFhO4M
 
 - name: AIBEST April 2026 Meetup
   logo: /assets/img/aibest-logo.png
