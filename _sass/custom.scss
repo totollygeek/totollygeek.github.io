@@ -494,8 +494,10 @@ hr { border-color: var(--surface-border); }
   border-top: 1px solid var(--surface-border);
   color: var(--text-dim) !important;
 }
-.footer a { color: var(--link); }
-.footer a:hover { color: var(--accent); }
+.footer a,
+.footer a:link,
+.footer a:visited { color: var(--link) !important; }
+.footer a:hover { color: var(--accent) !important; }
 .footer .site-info { font-family: var(--font-mono); font-size: .8rem; }
 
 /* ---------- Search modal ---------- */
