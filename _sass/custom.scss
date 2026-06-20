@@ -86,6 +86,9 @@ body {
   background-color: var(--bg) !important;
   overflow-x: hidden; /* contain the full-bleed hero breakout */
 }
+.page__main {
+  color: var(--text); /* theme hardcodes the dark-skin text colour here */
+}
 .page__sidebar {
   background-color: var(--bg-elev) !important;
 }
