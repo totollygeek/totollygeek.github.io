@@ -1,0 +1,22 @@
+{%- assign _hero_bg = '/assets/img/tardis.jpg' | relative_url -%}
+<section class="term-hero" style="background-image: linear-gradient(135deg, rgba(34,139,87,.35), rgba(139,34,139,.35)), url('{{ _hero_bg }}');">
+  <div class="term-hero__window">
+    <div class="term-hero__bar">
+      <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+      <span class="term-hero__name">todor@todorov: ~</span>
+    </div>
+    <div class="term-hero__body">
+      <p class="term-line"><span class="term-prompt">visitor@todorov.bg:~$</span> whoami</p>
+      <h1 class="term-hero__title">Todor Todorov</h1>
+      <p class="term-hero__roles">software developer · devops · public speaker · geek &amp; metal fan</p>
+      <p class="term-line"><span class="term-prompt">visitor@todorov.bg:~$</span> ls ./sections<span class="term-cursor"></span></p>
+      <ul class="term-hero__nav">
+        <li><a href="{{ '/' | relative_url }}">~/blog</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">~/about</a></li>
+        <li><a href="{{ '/speaking/' | relative_url }}">~/speaking</a></li>
+        <li><a href="{{ '/archive.html' | relative_url }}">~/archive</a></li>
+        <li><a href="{{ '/tags.html' | relative_url }}">~/tags</a></li>
+      </ul>
+    </div>
+  </div>
+</section>

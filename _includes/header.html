@@ -18,6 +18,9 @@
         {%- if site.search.provider -%}
           <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
         {%- endif -%}
+        <button class="button button--secondary button--circle theme-toggle js-theme-toggle" title="Toggle light / dark theme" aria-label="Toggle theme">
+          <i class="fas fa-moon theme-toggle__moon"></i><i class="fas fa-sun theme-toggle__sun"></i>
+        </button>
       </div>
       {%- if site.data.navigation.header -%}
       <nav class="navigation">

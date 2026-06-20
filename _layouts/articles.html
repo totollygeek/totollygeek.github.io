@@ -31,7 +31,15 @@ layout: page
 
 {%- assign _type = page.articles.type | default: layout.articles.type -%}
 
+{%- if page.home_hero -%}
+  {%- include terminal-hero.html -%}
+{%- endif -%}
+
 {%- if _articles -%}
+
+  {%- if page.home_hero -%}
+    <h2 class="home__section-title"><span class="term-prompt">$</span> ls ~/blog --latest</h2>
+  {%- endif -%}
 
   <div class="layout--articles">
 
