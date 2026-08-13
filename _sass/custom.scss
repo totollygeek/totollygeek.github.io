@@ -225,17 +225,6 @@ hr { border-color: var(--surface-border); }
   background-blend-mode: multiply;
   background-color: rgba(8, 11, 18, .72) !important;
 }
-.article__header--overlay .overlay::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background-image:
-    linear-gradient(rgba(54, 226, 122, .04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(54, 226, 122, .04) 1px, transparent 1px);
-  background-size: 32px 32px;
-  pointer-events: none;
-}
-
 .article__header--overlay .hero__content {
   position: relative;
   z-index: 1;
@@ -300,17 +289,6 @@ hr { border-color: var(--surface-border); }
   background-position: center;
   background-blend-mode: multiply;
 }
-.term-hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background:
-    linear-gradient(rgba(54, 226, 122, .05) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(54, 226, 122, .05) 1px, transparent 1px);
-  background-size: 34px 34px;
-  pointer-events: none;
-}
-
 .term-hero__window {
   position: relative;
   z-index: 1;
@@ -461,7 +439,7 @@ hr { border-color: var(--surface-border); }
   border-bottom-color: var(--accent);
 }
 .article__content blockquote {
-  border-left: 3px solid var(--accent);
+  border-left: 1px solid var(--surface-border);
   background: var(--bg-elev-2);
   color: var(--text-dim);
   border-radius: 0 8px 8px 0;
@@ -531,3 +509,21 @@ hr { border-color: var(--surface-border); }
 /* ---------- Article meta (date, author, tags) ---------- */
 
 .article__info { color: var(--text-dim); }
+
+/* ---------- Article footer (subscribe / license / prev-next) ---------- */
+
+.article__license { color: var(--text-dim); }
+.article__license a,
+.article__subscribe a { color: var(--text); }
+.article__license a:hover,
+.article__subscribe a:hover { color: var(--accent); }
+
+.article__section-navigator {
+  border-top-color: var(--surface-border);
+  & > .previous,
+  & > .next {
+    & > span { color: var(--text-dim); }
+    & > a { color: var(--text-strong); }
+    & > a:hover { color: var(--accent); }
+  }
+}
