@@ -1,7 +1,7 @@
 - name: DevOpsCon
   logo: /assets/img/devopscon.png
   location: Munich, Germany
-  date: 30 Noc - 04 Dec 2026
+  date: 30 Nov - 04 Dec 2026
   url: https://devopscon.io/munich/
   talks:
     - name: "Kill the YAML: Type-Safe Build Pipelines in TypeScript"
