@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Azure: How to authenticate Logic App against ASP.NET core app
+title: "Azure: How to authenticate Logic App against ASP.NET core app"
 categories: [azure]
 tags: [logic apps, asp.net, .net core, azure]
 ---

@@ -505,3 +505,29 @@ hr { border-color: var(--surface-border); }
 .search__header,
 .search-bar { background: var(--bg-elev); }
 .search-input { color: var(--text-strong); }
+
+/* ---------- Table of contents (aside + sidebar) ---------- */
+/* the theme bakes the dark skin's text colours into ul.toc — re-theme them */
+
+.toc-aside ul.toc,
+.sidebar-toc ul.toc {
+  color: var(--text);
+  .toc-h1,
+  .toc-h2,
+  .toc-h3,
+  .toc-h4,
+  .toc-h5,
+  .toc-h6 {
+    color: var(--text);
+    a { color: var(--text); }
+    a:hover { color: var(--accent); }
+    &.active a { color: var(--accent-2); }
+  }
+  .toc-h1 { color: var(--text-strong); a { color: var(--text-strong); } }
+  .toc-h5,
+  .toc-h6 { color: var(--text-dim); a { color: var(--text-dim); } }
+}
+
+/* ---------- Article meta (date, author, tags) ---------- */
+
+.article__info { color: var(--text-dim); }

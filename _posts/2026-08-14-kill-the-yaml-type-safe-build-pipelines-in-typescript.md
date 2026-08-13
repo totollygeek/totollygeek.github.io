@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Kill the YAML: Type-Safe Build Pipelines in TypeScript
+title: "Kill the YAML: Type-Safe Build Pipelines in TypeScript"
 categories: [oss]
 tags: [oss]
 ---
