@@ -497,13 +497,19 @@ hr { border-color: var(--surface-border); }
   .toc-h5,
   .toc-h6 {
     color: var(--text);
-    a { color: var(--text); }
-    a:hover { color: var(--accent); }
-    &.active a { color: var(--accent-2); }
+    a, a:link, a:visited { color: var(--text) !important; }
+    a:hover { color: var(--accent) !important; }
+    &.active a, &.active a:link, &.active a:visited { color: var(--accent-2) !important; }
   }
-  .toc-h1 { color: var(--text-strong); a { color: var(--text-strong); } }
+  .toc-h1 {
+    color: var(--text-strong);
+    a, a:link, a:visited { color: var(--text-strong) !important; }
+  }
   .toc-h5,
-  .toc-h6 { color: var(--text-dim); a { color: var(--text-dim); } }
+  .toc-h6 {
+    color: var(--text-dim);
+    a, a:link, a:visited { color: var(--text-dim) !important; }
+  }
 }
 
 /* ---------- Article meta (date, author, tags) ---------- */
@@ -513,17 +519,19 @@ hr { border-color: var(--surface-border); }
 /* ---------- Article footer (subscribe / license / prev-next) ---------- */
 
 .article__license { color: var(--text-dim); }
-.article__license a,
-.article__subscribe a { color: var(--text); }
+.article__license a, .article__license a:link, .article__license a:visited,
+.article__subscribe a, .article__subscribe a:link, .article__subscribe a:visited {
+  color: var(--text) !important;
+}
 .article__license a:hover,
-.article__subscribe a:hover { color: var(--accent); }
+.article__subscribe a:hover { color: var(--accent) !important; }
 
 .article__section-navigator {
   border-top-color: var(--surface-border);
   & > .previous,
   & > .next {
     & > span { color: var(--text-dim); }
-    & > a { color: var(--text-strong); }
-    & > a:hover { color: var(--accent); }
+    & > a, & > a:link, & > a:visited { color: var(--text-strong) !important; }
+    & > a:hover { color: var(--accent) !important; }
   }
 }
